@@ -43,7 +43,8 @@
     "style-loader": "^0.13.0",
     "uglify-js": "^2.7.5",
     "webpack": "^1.12.14",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^1.14.1",
+    "preact-cli": "^1.4.1"
   },
   "dependencies": {
     "preact": "^7.1.0",
